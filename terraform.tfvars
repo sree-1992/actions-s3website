@@ -1,0 +1,5 @@
+domain_name        = "trainingdevops.cloud"
+hostname           = "s3-website"
+project_name       = "zomato"
+project_env        = "prod"
+local_website_path = "./website/"
